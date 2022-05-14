@@ -1,4 +1,3 @@
-# PROJECT-Blogging-Sites
 # Thorium
 Repository for backend cohort - Thorium
 
